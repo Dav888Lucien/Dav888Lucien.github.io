@@ -29,7 +29,7 @@ A resume formatted in Markdown
 #### Creating the Repository
 
 1. Log into your [GitHub](https://GitHub.com) account.
-2. At the top right corner of the website, click on the '**+**' symbol and select "**New Repository**".[creatNew]!(Gifs/clickrepository.png)
+2. At the top right corner of the website, click on the '**+**' symbol and select "**New Repository**".![creatNewre](Gifs/clickrepository.jpg)
 3. Give your repository a name as"username.github.io". ![createNew](Gifs/createRepository.gif)
 4. Choose "**Public**" visibility for your repository, and initialise the repository with a README file. photo
 6. Finally, click on "**Create Repository**" to finish.photo
