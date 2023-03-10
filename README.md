@@ -1,6 +1,6 @@
 # How to Host a Resume on GitHub Pages
 
-This README tutorial goes over the steps on how to create a resume written in the Markdown markup language, and hosting it on GitHub pages. Throughout this document, the general principles of Andrew Etter's book "Modern Technical Writing" is demonstrated and later explained. 
+This README tutorial goes over the steps on how to create a resume written in the Markdown markup language, and hosting it on GitHub pages.  
 
 ---
 ## Prerequisites
@@ -14,14 +14,15 @@ A resume formatted in Markdown
 ---
 ## Contents
 * [Instructions](#Instructions)
-   * [Create a Repository](###Creating-the-Repository)
-   * [Choosing a Jekyll Theme For Your GitHub Page](#Choosing-a-Jekyll-Theme-For-Your-GitHub-Page)
+   * [Create a Repository]
 * [Jekyll](#Jekyll)
   * [Download a Jekyll](#Download-a-Jekyll)
   * [Quick Theme](#Quick-Theme)
+
 * [Publish Your Resume on GitHub Pages](#Publish-Your-Resume-on-GitHub-Pages)
+
 * [Principles of Andrew Etter's book "Modern Technical Writing"](#Technical-writing)
-* [FAQs](##FAQs)
+* [FAQs](#FAQs)
 
 --- 
 # Instructions
@@ -113,7 +114,7 @@ Use plain language: Technical writing should be clear and easy to understand. Av
 
 
 ---
-## FAQs
+# FAQs
 **Why is my resume not showing up?**
 * Make sure Your resume must named ```index.md```, or it will not be recognised by GitHub Pages. 
 
@@ -121,6 +122,23 @@ Use plain language: Technical writing should be clear and easy to understand. Av
 * Markdown is a plain text formatting syntax that is easy to read and write. It allows you to focus on the content of your document without worrying about formatting. 
 
 
+
+---
+## More Resources
+* [Easy Markdown Tutorial](https://www.markdowntutorial.com)
+* [GitHub Flavoured Markdown Reference Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* ["Modern Technical Writing" by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+---
+
+---
+## Authors and Acknowledgements 
+#### **Author**
+* [ZHIHAO WANG](https://github.com/Wangz8)  
+#### **Group Members/Peer Editors**
+Anthony Phung 
+
+---
 
 
 
