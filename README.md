@@ -70,6 +70,12 @@ echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version
 7. set on configure
 ![theme](Gifs/theme.jpg)
 
+8. run static web on local device
+```
+bundle exec jekyll serve
+```
+![coderun](Gifs/coderun.jpg)
+9. Open a web browser and go to http://localhost:4000 to preview your resume.
 
 8. upload to github
 
@@ -78,10 +84,10 @@ echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version
 ---
 Publish Your Resume on GitHub Pages
 ---
- 1. Commit your changes and push them to your repository. photo
- 2. Go to your repository's settings and scroll down to the "GitHub Pages" section. gif
- 3. Select "main" as the source branch and "/ (root)" as the source folder.photo
- 5. Your resume is now accessible at https://username.github.io.
+ 1. Commit upload file and push them to your repository.
+ ![index](Gifs/upload_index.gif) 
+ 2. Go to your repository's settings and scroll down to the "GitHub Pages" section. ![page](Gifs/hostpage.gif)
+ 3. Your resume is now accessible at https://username.github.io.
 
 ## FAQs
 **Why is my resume not showing up?**
