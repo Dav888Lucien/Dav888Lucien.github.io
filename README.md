@@ -6,15 +6,15 @@ This README tutorial goes over the steps on how to create a resume written in th
 ## Prerequisites
 Prerequisites:
 
-A resume formatted in Markdown
-[A GitHub account](https://pages.github.com/)
-[Markdown Tutorial](https://www.markdowntutorial.com/)
+1. A resume formatted in Markdown
+2. [A GitHub account](https://pages.github.com/)
+3. [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 
 ---
 ## Contents
 * [Instructions](#Instructions)
-   * [Create a Repository]
+   * [Create a Repository]()
 * [Jekyll](#Jekyll)
   * [Download a Jekyll](#Download-a-Jekyll)
   * [Quick Theme](#Quick-Theme)
@@ -134,7 +134,7 @@ Use plain language: Technical writing should be clear and easy to understand. Av
 ---
 ## Authors and Acknowledgements 
 #### **Author**
-* [ZHIHAO WANG](https://github.com/Wangz8)  
+* [Luxiang Lin](https://github.com/Dav888Lucien/Dav888Lucien.github.io)  
 #### **Group Members/Peer Editors**
 Anthony Phung 
 
