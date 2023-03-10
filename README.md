@@ -1,7 +1,6 @@
 # How to Host a Resume on GitHub Pages
 
-This README tutorial goes over the steps on how to create a resume written in the Markdown markup language, and hosting it on GitHub pages.  
-
+This README tutorial goes over the steps on how to create a resume written in the Markdown markup language, and hosting it on GitHub pages. ![rusema](Gifs/resume.gif)
 ---
 ## Prerequisites
 Prerequisites:
