@@ -14,13 +14,14 @@ A resume formatted in Markdown
 ---
 ## Contents
 * [Instructions](#Instructions)
-   * [Create a Repository](#Create-a-Repository)
+   * [Create a Repository](###Creating-the-Repository)
    * [Choosing a Jekyll Theme For Your GitHub Page](#Choosing-a-Jekyll-Theme-For-Your-GitHub-Page)
-* [Jekyll](#More-Resources)
+* [Jekyll](#Jekyll)
   * [Download a Jekyll](#Download-a-Jekyll)
-  * [Run Jekyll web](#Download-a-Jekyll)
-*[Publish Your Resume on GitHub Pages](#Publish Your Resume on GitHub Pages)
-* [FAQs](#FAQs)
+  * [Quick Theme](#Quick-Theme)
+* [Publish Your Resume on GitHub Pages](#Publish-Your-Resume-on-GitHub-Pages)
+* [Principles of Andrew Etter's book "Modern Technical Writing"](#Technical-writing)
+* [FAQs](##FAQs)
 
 --- 
 # Instructions
@@ -39,8 +40,9 @@ A resume formatted in Markdown
     ![seturl](Gifs/clone_to_vscode.gif)
 
 ---
-Jekyll
+# Jekyll
 ---
+## Download a Jekyll
 1. Homebrew makes it easy to install development tools on a Mac.
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
@@ -63,7 +65,7 @@ echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version
  gem install jekyll
  ```
 5. make new file
-
+# Quick Theme
 6. go to [website](https://pages.github.com/themes/) choose one theme
 ![themeP](Gifs/themepage.jpg)
 
@@ -77,20 +79,40 @@ bundle exec jekyll serve
 ![coderun](Gifs/coderun.jpg)
 9. Open a web browser and go to http://localhost:4000 to preview your resume.
 
-8. upload config to github
+10. upload config to github
 ![config](Gifs/uploadconfig.gif)
 
 
 
 
 ---
-Publish Your Resume on GitHub Pages
+# Publish Your Resume on GitHub Pages
 ---
  1. Commit upload file and push them to your repository.
  ![index](Gifs/upload_index.gif) 
  2. Go to your repository's settings and scroll down to the "GitHub Pages" section. ![page](Gifs/hostpage.gif)
  3. Your resume is now accessible at https://username.github.io.
 
+---
+# Technical writing
+---
+Use plain language: Technical writing should be clear and easy to understand. Avoid using jargon or technical terms that readers may not be familiar with.
+
+1. Write for the web: Technical writing should be optimized for the web. Use short paragraphs, bullet points, and headings to make the content easy to scan and read.
+
+2. Use a minimalist approach: Keep technical writing simple and straightforward. Avoid unnecessary words or details that don't add value to the content.
+
+3. Use a structured approach: Use a structured approach when writing technical documentation. This can help readers find the information they need quickly and easily.
+
+4. Use a version control system: Use a version control system to manage changes to technical documentation. This can help ensure that the most up-to-date information is always available to readers.
+
+5. Write in Markdown: Markdown is a simple markup language that can be used to write technical documentation. It's easy to learn and can be converted to other formats, such as HTML or PDF.
+
+6. Use screenshots and diagrams: Use screenshots and diagrams to illustrate technical concepts. This can help readers better understand complex information.
+
+
+
+---
 ## FAQs
 **Why is my resume not showing up?**
 * Make sure Your resume must named ```index.md```, or it will not be recognised by GitHub Pages. 
