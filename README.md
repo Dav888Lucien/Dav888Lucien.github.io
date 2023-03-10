@@ -42,7 +42,7 @@ Prerequisites:
 ---
 # Jekyll
 ---
-## Download a Jekyll
+## Download Jekyll
 1. Homebrew makes it easy to install development tools on a Mac.
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
