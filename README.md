@@ -115,10 +115,7 @@ Use plain language: Technical writing should be clear and easy to understand. Av
 ---
 # FAQs
 **Why is my resume not showing up?**
-* Make sure Your resume must named ```index.md```, or it will not be recognised by GitHub Pages. 
-
-**Why git theme cannot be displayed?**
-* Your terminal does not support color output. Make sure that your terminal supports ANSI color output and that color output is enabled.
+* Make sure Your resume must named ```index.md```.
 
 **What tools can I use to create and edit Markdown files?**
 * Online editors: Many websites offer online Markdown editors, such as Dillinger, StackEdit, and HackMD.
