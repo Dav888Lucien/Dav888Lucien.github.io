@@ -118,8 +118,12 @@ Use plain language: Technical writing should be clear and easy to understand. Av
 **Why is my resume not showing up?**
 * Make sure Your resume must named ```index.md```, or it will not be recognised by GitHub Pages. 
 
-**Why is Markdown better than a word processor?**
-* Markdown is a plain text formatting syntax that is easy to read and write. It allows you to focus on the content of your document without worrying about formatting. 
+**Why git theme cannot be displayed?**
+* Your terminal does not support color output. Make sure that your terminal supports ANSI color output and that color output is enabled.
+
+**What tools can I use to create and edit Markdown files?**
+* Online editors: Many websites offer online Markdown editors, such as Dillinger, StackEdit, and HackMD.
+* Integrated development environments (IDEs): IDEs like Eclipse, PyCharm, and IntelliJ IDEA often have plugins or built-in support for Markdown editing.
 
 
 
