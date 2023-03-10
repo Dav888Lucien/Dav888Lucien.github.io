@@ -77,7 +77,9 @@ bundle exec jekyll serve
 ![coderun](Gifs/coderun.jpg)
 9. Open a web browser and go to http://localhost:4000 to preview your resume.
 
-8. upload to github
+8. upload config to github
+![config](Gifs/uploadconfig.gif)
+
 
 
 
