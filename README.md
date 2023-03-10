@@ -31,11 +31,12 @@ A resume formatted in Markdown
 1. Log into your [GitHub](https://GitHub.com) account.
 2. At the top right corner of the website, click on the '**+**' symbol and select "**New Repository**".![creatNewre](Gifs/clickrepository.jpg)
 3. Give your repository a name as"username.github.io". ![createNew](Gifs/createRepository.gif)
-4. Choose "**Public**" visibility for your repository, and initialise the repository with a README file. photo
-6. Finally, click on "**Create Repository**" to finish.photo
+4. Choose "**Public**" visibility for your repository, and initialise the repository with a README file.![setpublic](Gifs/setPublic.jpg)
+6. Finally, click on "**Create Repository**" to finish.photo![setre](Gifs/createre.jpg)
 7. Clone the Repository
     *Open VS Code and click on "Clone Repository" on the welcome screen.
-    *Enter the URL of the repository you just created and select a location on your computer to clone the repository to   gif
+    *Enter the URL of the repository you just created and select a location on your computer to clone the repository to 
+    ![seturl](Gifs/clone_to_vscode.gif)
 
 ---
 Jekyll
